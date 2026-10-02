@@ -1,0 +1,89 @@
+{
+ "all_passed": true,
+ "cases": [
+  {
+   "case": "Base",
+   "passed": true,
+   "worst_cash_diff": 4.917383193969727e-07,
+   "worst_ratio_diff": 6.915162886755866e-13,
+   "issues": []
+  },
+  {
+   "case": "Mild stress",
+   "passed": true,
+   "worst_cash_diff": 4.76837158203125e-07,
+   "worst_ratio_diff": 1.385211390037e-12,
+   "issues": []
+  },
+  {
+   "case": "Stress",
+   "passed": true,
+   "worst_cash_diff": 4.76837158203125e-07,
+   "worst_ratio_diff": 1.930094972735219e-12,
+   "issues": []
+  },
+  {
+   "case": "Severe stress",
+   "passed": true,
+   "worst_cash_diff": 5.066394805908203e-07,
+   "worst_ratio_diff": 7.738254481637341e-14,
+   "issues": []
+  },
+  {
+   "case": "Fast prepay",
+   "passed": true,
+   "worst_cash_diff": 4.917383193969727e-07,
+   "worst_ratio_diff": 7.058520434810589e-13,
+   "issues": []
+  },
+  {
+   "case": "Rate shock",
+   "passed": true,
+   "worst_cash_diff": 5.364418029785156e-07,
+   "worst_ratio_diff": 3.7039815659056785e-13,
+   "issues": []
+  },
+  {
+   "case": "pro rata Base",
+   "passed": true,
+   "worst_cash_diff": 4.470348358154297e-07,
+   "worst_ratio_diff": 1.017290418570127e-12,
+   "issues": []
+  },
+  {
+   "case": "pro rata Stress",
+   "passed": true,
+   "worst_cash_diff": 4.76837158203125e-07,
+   "worst_ratio_diff": 3.1359914665074484e-12,
+   "issues": []
+  },
+  {
+   "case": "pro rata Rate shock",
+   "passed": true,
+   "worst_cash_diff": 4.76837158203125e-07,
+   "worst_ratio_diff": 3.829159211932165e-13,
+   "issues": []
+  },
+  {
+   "case": "hedged Rate shock",
+   "passed": true,
+   "worst_cash_diff": 4.76837158203125e-07,
+   "worst_ratio_diff": 1.385211390037e-12,
+   "issues": []
+  },
+  {
+   "case": "arrears sweep A",
+   "passed": true,
+   "worst_cash_diff": 4.76837158203125e-07,
+   "worst_ratio_diff": 3.2376878955631128e-12,
+   "issues": []
+  },
+  {
+   "case": "arrears sweep B",
+   "passed": true,
+   "worst_cash_diff": 5.066394805908203e-07,
+   "worst_ratio_diff": 7.913669719528116e-13,
+   "issues": []
+  }
+ ]
+}

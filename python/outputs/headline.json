@@ -1,0 +1,76 @@
+{
+ "pool_balance": 400000000.0,
+ "fair_values": {
+  "A": 300000000.0,
+  "B": 39325397.775268,
+  "C": 29215707.362768818,
+  "R": 35196150.36370279
+ },
+ "base": {
+  "A": {
+   "par": 300000000.0,
+   "wal": 1.592249992180281,
+   "yield_at_par": 0.049997787735508475,
+   "discount_margin": 0.010999999999999711,
+   "first_prin_month": 1,
+   "last_prin_month": 42,
+   "interest_paid": 23841743.11011724,
+   "cash_received": 323841743.1101172,
+   "writedown": 0.0,
+   "writedown_pct": 0.0,
+   "unpaid_int_end": 0.0,
+   "unpaid_int_peak": 0.0,
+   "any_shortfall": false,
+   "write_down_flag": false
+  },
+  "B": {
+   "par": 40000000.0,
+   "wal": 3.827501450569639,
+   "yield_at_par": 0.05973536998708799,
+   "discount_margin": 0.022500000000000023,
+   "first_prin_month": 42,
+   "last_prin_month": 51,
+   "interest_paid": 9121028.358096344,
+   "cash_received": 49121028.35809633,
+   "writedown": 0.0,
+   "writedown_pct": 0.0,
+   "unpaid_int_end": 0.0,
+   "unpaid_int_peak": 0.0,
+   "any_shortfall": false,
+   "write_down_flag": false
+  },
+  "C": {
+   "par": 30000000.0,
+   "wal": 4.713188427193804,
+   "yield_at_par": 0.07499999999999962,
+   "discount_margin": 0.0382988005263247,
+   "first_prin_month": 51,
+   "last_prin_month": 63,
+   "interest_paid": 10604673.961186055,
+   "cash_received": 40604673.96118605,
+   "writedown": 0.0,
+   "writedown_pct": 0.0,
+   "unpaid_int_end": 0.0,
+   "unpaid_int_peak": 0.0,
+   "any_shortfall": false,
+   "write_down_flag": false
+  },
+  "R": {
+   "par": 33000000.0,
+   "wal": 5.884314566498501,
+   "yield_at_par": 0.1816165658172312,
+   "discount_margin": 0.14452498705075112,
+   "first_prin_month": 63,
+   "last_prin_month": 90,
+   "interest_paid": 0.0,
+   "cash_received": 57063657.54405437,
+   "writedown": 0.0,
+   "writedown_pct": 0.0,
+   "unpaid_int_end": 0.0,
+   "unpaid_int_peak": 0.0,
+   "any_shortfall": false,
+   "write_down_flag": false
+  }
+ },
+ "all_checks_passed": true
+}

@@ -1,0 +1,50 @@
+{
+ "Base": {
+  "pool_recon_max_abs": 0.0,
+  "pool_lifetime_identity": 0.0,
+  "cash_conservation_max_abs": 2.0954757928848267e-09,
+  "class_identity_max_abs": 5.960464477539063e-08,
+  "residual_paid_with_arrears_periods": 0,
+  "negative_values": 0
+ },
+ "Mild stress": {
+  "pool_recon_max_abs": 0.0,
+  "pool_lifetime_identity": 0.0,
+  "cash_conservation_max_abs": 2.0954757928848267e-09,
+  "class_identity_max_abs": 5.960464477539063e-08,
+  "residual_paid_with_arrears_periods": 0,
+  "negative_values": 0
+ },
+ "Stress": {
+  "pool_recon_max_abs": 0.0,
+  "pool_lifetime_identity": 1.1920928955078125e-07,
+  "cash_conservation_max_abs": 3.725290298461914e-09,
+  "class_identity_max_abs": 7.450580596923828e-09,
+  "residual_paid_with_arrears_periods": 0,
+  "negative_values": 0
+ },
+ "Severe stress": {
+  "pool_recon_max_abs": 0.0,
+  "pool_lifetime_identity": 0.0,
+  "cash_conservation_max_abs": 1.862645149230957e-09,
+  "class_identity_max_abs": 5.960464477539063e-08,
+  "residual_paid_with_arrears_periods": 0,
+  "negative_values": 0
+ },
+ "Fast prepay": {
+  "pool_recon_max_abs": 0.0,
+  "pool_lifetime_identity": 0.0,
+  "cash_conservation_max_abs": 2.6775524020195007e-09,
+  "class_identity_max_abs": 5.960464477539063e-08,
+  "residual_paid_with_arrears_periods": 0,
+  "negative_values": 0
+ },
+ "Rate shock": {
+  "pool_recon_max_abs": 0.0,
+  "pool_lifetime_identity": 0.0,
+  "cash_conservation_max_abs": 3.725290298461914e-09,
+  "class_identity_max_abs": 0.0,
+  "residual_paid_with_arrears_periods": 0,
+  "negative_values": 0
+ }
+}
