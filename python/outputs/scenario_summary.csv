@@ -1,0 +1,7 @@
+scenario,cpr,cdr,severity,lag,index_shift,cum_net_loss_pct,junior_writedown,senior_writedown,first_shortfall,senior_shortfall,writedown_pct_A,unpaid_int_end_A,unpaid_int_peak_A,writedown_pct_B,unpaid_int_end_B,unpaid_int_peak_B,writedown_pct_C,unpaid_int_end_C,unpaid_int_peak_C,writedown_pct_R,unpaid_int_end_R,unpaid_int_peak_R
+Base,0.1,0.03,0.4,6,0.0,0.02728473280702353,none,none,none,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mild stress,0.1,0.06,0.5,6,0.0,0.0657907807028389,none,none,none,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stress,0.06,0.12,0.6,9,0.0,0.1570582167116472,R,C,R,C,0.0,0.0,0.0,0.0,0.0,0.0,0.4641250819042009,0.0,1724.400058578705,0.7316163213642276,0.0,0.0
+Severe stress,0.04,0.2,0.7,12,0.0,0.285377556605941,R,B,R,B,0.0,0.0,0.0,0.7796876320639848,0.0,0.0,1.0,0.0,1644161.19218206,0.9213523843585311,0.0,0.0
+Fast prepay,0.3,0.03,0.4,6,0.0,0.01902484269269207,none,none,none,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rate shock,0.1,0.06,0.5,6,0.03,0.0657907807028389,R,R,R,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2437499.9999999995,0.3895993322132059,0.0,0.0
